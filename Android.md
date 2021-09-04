@@ -23,6 +23,9 @@ Coroutine은 단독으론 실행 될 수 없다. 스레드에서 실행이 된�
 
 
 ## 2. DataBiding 정리
-
+Jetpack 라이브러리 중 하나\
+XML과 Data를 연결해서 XML에서 데이터 조작을 할 수 있음\
+MVVM, MVM 패턴에서 활용됨\
+뷰와 로직 중 뷰가 변경되는 경우가 더 많기때문에 DataBinding을 사용하면 수정해야 할 코드가 적어지고 관리가 편해짐
 
 ## 3. Jetpack Library 정리
